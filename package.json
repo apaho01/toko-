@@ -1,0 +1,20 @@
+{
+  "name": "stitch-next-gen-gaming-pc-storefront",
+  "version": "1.0.0",
+  "description": "UltraPC - Next-Gen Custom Gaming PC & Workstation Atelier Storefront",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node test/suite.js"
+  },
+  "keywords": [
+    "gaming-pc",
+    "custom-rig-builder",
+    "liquid-cooling",
+    "e-commerce",
+    "repair-tracking"
+  ],
+  "author": "UltraPC Engineering Team",
+  "license": "ISC"
+}
